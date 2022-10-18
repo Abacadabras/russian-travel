@@ -1,0 +1,8 @@
+.header {
+  padding: 28px 0 56px;
+  background-image: url("../../images/header-logo.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-origin: content-box;
+  min-height: 52px;
+}
