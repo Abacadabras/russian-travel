@@ -1,0 +1,12 @@
+.navigation__link {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 18px;
+  text-decoration: none;
+  color: var(--color-text);
+  transition: opacity .3s ease-in-out;
+}
+
+.place__link:hover {
+  opacity: 0.8;
+}
