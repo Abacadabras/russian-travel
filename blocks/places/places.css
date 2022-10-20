@@ -11,3 +11,10 @@
     gap: 72px;
   }
 }
+
+@media screen and (max-width:500px) {
+  .places {
+    gap: 50px;
+    padding: 0 0 var(--padding-mobile);
+  }
+}

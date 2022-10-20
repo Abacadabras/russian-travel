@@ -11,3 +11,9 @@
     padding: 0 0 var(--padding-tablet);
   }
 }
+
+@media screen and (max-width:321px) {
+  .lead {
+    padding: 0 0 var(--padding-mobile);
+  }
+}

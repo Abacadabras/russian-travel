@@ -4,3 +4,11 @@
   margin: 0;
   padding: 0;
 }
+
+@media screen and (max-width:600px) {
+  .navigation__list {
+    flex-direction: column;
+    gap: 32px;
+    margin-bottom: 48px;
+  }
+}

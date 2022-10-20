@@ -5,3 +5,9 @@
   margin: 0;
   padding: 18px 0 0;
 }
+
+@media screen and (max-width:321px) {
+  .header__switch-lang {
+    padding: 16px 0 0;
+  }
+}
