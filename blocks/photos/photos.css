@@ -9,3 +9,10 @@
     max-width: 928px;
   }
 }
+
+@media screen and (max-width:769px) {
+  .photos {
+    max-width: 720px;
+    padding: 0 0 var(--padding-tablet);
+  }
+}

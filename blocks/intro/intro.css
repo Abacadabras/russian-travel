@@ -9,3 +9,10 @@
     padding: 0 238px var(--padding) 0;
   }
 }
+
+@media screen and (max-width:769px) {
+  .intro {
+    max-width: 720px;
+    padding: 0 0 var(--padding-tablet);
+  }
+}
