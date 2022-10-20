@@ -1,6 +1,5 @@
 .page {
-  max-width: 1184px;
-  margin: 0 auto;
+  margin: 0;
   font-family: Inter, sans-serif;
   color: var(--color-text);
   background-color: var(--color-dark-bg);

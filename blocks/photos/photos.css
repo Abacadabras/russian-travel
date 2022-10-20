@@ -1,3 +1,11 @@
 .photos {
   padding: 0 0 var(--padding);
+  max-width: 1184px;
+  margin: auto;
+}
+
+@media screen and (max-width:1025px) {
+  .photos {
+    max-width: 928px;
+  }
 }
