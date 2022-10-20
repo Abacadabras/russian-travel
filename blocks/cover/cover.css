@@ -15,6 +15,6 @@
 
 @media screen and (max-width:600px) {
   .cover {
-    padding: 0 0 var(--padding-mobile);;
+    padding: 0 0 var(--padding-mobile);
   }
 }
