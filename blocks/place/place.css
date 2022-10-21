@@ -13,7 +13,7 @@
   }
 }
 
-@media screen and (max-width:769px) {
+@media screen and (max-width:950px) {
   .place {
     grid-template-columns: 340px 1fr;
     gap: 48px 28px;
@@ -21,7 +21,7 @@
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 760px) {
   .place {
     grid-template-columns: 1fr;
     gap: 32px;
