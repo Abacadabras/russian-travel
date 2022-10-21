@@ -7,7 +7,7 @@
   transition: opacity .3s ease-in-out;
 }
 
-.place__link:hover {
+.navigation__link:hover {
   opacity: 0.8;
 }
 

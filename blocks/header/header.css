@@ -4,7 +4,6 @@
   background-repeat: no-repeat;
   background-size: contain;
   background-origin: content-box;
-  min-height: 52px;
   margin: auto;
   max-width: 1184px;
 }
@@ -22,7 +21,6 @@
 
 @media screen and (max-width:321px) {
   .header {
-    min-height: 42px;
     padding: 16px 16px 48px;
   }
 }
